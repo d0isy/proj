@@ -1039,7 +1039,7 @@ body {
 .modal-content{
     background-color: #d45d85;
     width: 25%;
-    height: 30%;
+    height: 300px;
     border-radius: 30px;
     position: relative;
     text-align: center;
